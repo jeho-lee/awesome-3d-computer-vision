@@ -1,4 +1,4 @@
-# awesome-autonomous-driving-research
+# Awesome 3D Perception Research
 
 ### Occupancy Prediction
 - https://github.com/wzzheng/TPVFormer
